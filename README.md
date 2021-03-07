@@ -6,8 +6,7 @@ The purpose of this analysis is to prepare visualizations using citibike data in
 
 ## Results
 
-Text Here
-
+The following 7 images summarize the results of the analysis. For more information about the visualization, please visit the Story Link Here: [Citibike Visualizations](https://public.tableau.com/views/CitiBikeChallenge_16151427468530/CitiBike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 <p align="left"> <img src="/Resources/Locations.png"> </p>
 
@@ -46,5 +45,3 @@ Based on several observations of the data, our team recommends running additiona
 1) Origin-Destination maps to show if they are balanced or if the bicycles needed to be moved between stations for imbalance
 
 2) Gather Weather data and determine relationship between bicycle usage and weather. This will be important to have better expectations in implementing the project in Des Moines.
-
-For more information about the visualization, please visit the Story Link Here: [Citibike Visualizations](https://public.tableau.com/views/CitiBikeChallenge_16151427468530/CitiBike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
